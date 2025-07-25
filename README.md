@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mj-the-developer
-- 👀 I’m interested in web development and I use ReactJS for front-end and Django for back-end.
+- 👋 Hi, I am @mj-the-developer
+- 👀 I am a full-stack web developer and I have been working on Shopify applications in past few years. React and Django are my favorite frameworks.
 - 📫 Reach me at mojtaba.namazi.ghamsari@gmail.com
 
 <!---
