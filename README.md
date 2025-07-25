@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mj-the-developer
-- 👀 I’m interested in web development and I use ReactJS for front-end and Laravel for back-end.
+- 👀 I’m interested in web development and I use ReactJS for front-end and Django for back-end.
 - 📫 Reach me at mojtaba.namazi.ghamsari@gmail.com
 
 <!---
